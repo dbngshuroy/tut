@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1380049295 source:c:\debangshu\cproject\spoj\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1380049388 source:c:\debangshu\cproject\spoj\prof.c
+	<stdio.h>
+	<math.h>
+
